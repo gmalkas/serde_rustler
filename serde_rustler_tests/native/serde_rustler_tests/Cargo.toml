@@ -1,6 +1,6 @@
 [package]
 name = "serde_rustler_tests"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Sunny G <sunny.gonna@gmail.com>"]
 edition = "2018"
 publish = false
